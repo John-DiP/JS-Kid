@@ -1,4 +1,3 @@
-- Hi, I’m John
 - I’m interested in Computer Science
 - I’m currently in College
 
